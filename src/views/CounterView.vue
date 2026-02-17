@@ -28,7 +28,7 @@
 import { ref, onMounted, onUnmounted } from "vue";
 
 // Countdown-Ziel
-const targetDate = new Date("2026-02-13T16:30:00");
+const targetDate = new Date("2026-02-27T19:30:00");
 
 // Countdown Variablen
 const days = ref(0);
